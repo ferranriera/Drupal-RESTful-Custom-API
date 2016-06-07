@@ -1,0 +1,12 @@
+name = RESTful custom API
+description = Custom API based in RESTful module.
+core = 7.x
+dependencies[] = restful
+
+registry_autoload[] = PSR-4
+
+; Information added by Drupal.org packaging script on 2016-04-28
+version = "7.x-1.0-beta1"
+core = "7.x"
+project = "restful"
+datestamp = "1461850431"
